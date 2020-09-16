@@ -1,6 +1,6 @@
 ### Radius is hiring a...
 
-# Full stack mobile engineer
+# Senior React Native Software Engineer
 
 Radius turns every place around you into an exciting discovery and a magical interaction. Think of a remote control for the real world, right on your phone. To pursue our goal, we are now looking for a full stack mobile engineer to become the primary engineer for the Radius front end experience.
 
