@@ -4,6 +4,8 @@
 
 Radius turns every place around you into an exciting discovery and a magical interaction. Think of a remote control for the real world, right on your phone. To pursue our goal, we are now looking for a full stack mobile engineer to become the primary engineer for the Radius front end experience.
 
+[See the landing page here.](https://onradius.com)
+
 ## About us
 We’re a team of startup executives with a long pedigree in creating new tech products and engaging consumers with world class marketing. Financed and supported by a Fortune 200 company, we’re building a next generation internet product and mobile experience.
 
@@ -40,5 +42,8 @@ You will make technical decisions, and provide significant input on customer nee
 
 ## Our hiring process
 If you’ve read this far and are excited for the opportunity, we would love to hear from you. Our process starts with a 15 minute video call to get to know each other. After that you’ll get a chance to talk with the entire (but small) team and go through a technical interview. Our goal is for the process to be meaningful but as brief as possible.
+
+## Work Location
+The ideal scenario is that you are remote until mid-2021 and then on-site in New York City. We will consider permanent remote, ideally in Eastern or Central time zone. But, we can only consider candidates in the US.
 
 Please email resumes to Kai Yen, VP Engineering at kai@onradius.com. We look forward to hearing from you!
