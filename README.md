@@ -1,6 +1,6 @@
 ### Radius is hiring a...
 
-# Senior React Native Software Engineer
+# Senior Mobile Engineer
 
 Radius turns every place around you into an exciting discovery and a magical interaction. Think of a remote control for the real world, right on your phone. To pursue our goal, we are now looking for a full stack mobile engineer to become the primary engineer for the Radius front end experience.
 
@@ -15,7 +15,7 @@ We’re in the early stages of building our product. This role is instrumental i
 ## What you get in return
 You will receive a competitive salary with generous benefits that include health insurance, 401k, and lots more. But most importantly, you’ll work in an unmatched environment to learn and grow.
 
-You’ll work directly with Kai Yen, VP Engineering, who’s been a hands-on technology executive for over a decade. Kai has founded several technology companies and led award-winning, cross-functional teams. 
+You’ll work directly with Kai Yen, VP Engineering, who’s been a hands-on technology executive for over a decade. Kai has founded several technology companies and led award-winning, cross-functional teams. Kai loves React, GraphQL, TypeScript, PostgreSQL and lots of other modern tech and tools.
 
 You will make technical decisions, and provide significant input on customer needs and business direction.
 
@@ -30,7 +30,7 @@ You will make technical decisions, and provide significant input on customer nee
 * Strong knowledge of modern JavaScript and TypeScript
 * Experience building and deploying mobile apps to Apple and Google app stores
 * Experience with mobile app location services
-* Experience with React Native and Expo with OTA updates
+* Experience with React Native
 * Experience with mobile analytics, offline usage, in-app notifications
 * Experience building REST or GraphQL endpoints
 
